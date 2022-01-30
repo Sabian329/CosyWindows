@@ -6,4 +6,4 @@
 - [Chakra UI](https://chakra-ui.com/) - create a few components based on UI,
 - [Axios](https://axios-http.com/docs/intro) - get data from pexels.com & send form,
 - [Figma](https://www.figma.com/) - create room virew image in svg extension
-# CosyWindows
+
